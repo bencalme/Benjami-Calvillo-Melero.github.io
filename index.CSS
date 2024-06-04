@@ -35,6 +35,11 @@ section {
     margin-bottom: 20px;
 }
 
+#intro h2 {
+    text-align: center;
+    color: #333;
+}
+
 footer {
     background-color: #333;
     color: #fff;
